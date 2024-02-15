@@ -1,0 +1,13 @@
+.dark {
+  background-color: #333; /* Dark background color */
+  color: #fff; /* Light text color */
+}
+.custom{
+  color: red;
+}
+html{
+  scroll-behavior: smooth;
+}
+.menu-bar{
+  right: -100%;
+}
