@@ -23,14 +23,17 @@ function Projects() {
               developer
             </p>
             <div className="mt-5 pl-8">
-              <a href="">
+              <a href="https://github.com/ShivamxBisht/Developer-Portfolio" target="_blank">
                 <button className="bg-blue-300 hover:shadow-lg shadow-md hover:translate-y-[-2px] ease-linear text-black px-4 py-3 rounded mr-2">
                   <FaGithub />
                 </button>
               </a>
+              <a href="https://shivambishtportfolio.netlify.app/" target="_blank">
+
               <button className="bg-blue-300 hover:shadow-lg shadow-md hover:translate-y-[-2px] ease-linear text-black px-4 py-2 rounded">
                 Demo
               </button>
+              </a>
             </div>
           </div>
 
