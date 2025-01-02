@@ -28,15 +28,15 @@ function Education() {
               </h1>
             </div>
             <h2 className="text-xl sm:text-2xl pl-[30px]">
-              BTech-Mechanical Engineering (2020-24)
+              BTech-Mechanical Engineering (2020-2024)
               <br />
-              GPA Till 7th semester- 7.2
+              GPA - 7.2
             </h2>
             <br />
             <div className="flex gap-4">
               <FaCaretRight />
               <h1 className="text-xl sm:text-2xl relative bottom-1 font-semibold">
-                KLK Saraswati Bal Mandir,Mehrauli,New delhi-30 @ CBSE
+                K.L.K Saraswati Bal Mandir,Mehrauli,New delhi-110030 @ CBSE
               </h1>
             </div>
             <h2 className="text-xl sm:text-2xl pl-[30px]">
